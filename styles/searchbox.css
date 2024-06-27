@@ -1,0 +1,22 @@
+#searchbox {
+    text-align: center;
+}
+
+.search-box {
+    vertical-align: top;
+    margin: 0;
+    background-color: darkgreen;
+    border: none;
+    color: white;
+    padding: 5px;
+    border-radius: 8px;
+    width: calc(44.333333% - 30px);
+    height: 50px;
+    box-sizing: border-box;
+ }
+
+#btn {
+    margin-right: 15px;
+    color: darkgreen;
+    font-size: 3em;
+}
